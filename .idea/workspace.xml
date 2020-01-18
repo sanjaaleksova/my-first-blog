@@ -17,6 +17,7 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\usr\" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1WZ1O3M8cmwi4dFDD91gU48vnU1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,22 +65,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="380" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579346166110">
+    <state x="380" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579357887290">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="380" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579346166110" />
-    <state x="412" y="61" key="FileChooserDialogImpl" timestamp="1579354868537">
+    <state x="380" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579357887290" />
+    <state x="412" y="61" key="FileChooserDialogImpl" timestamp="1579357741361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579354868537" />
-    <state x="60" y="0" key="SettingsEditor" timestamp="1579354873627">
+    <state x="412" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579357741361" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1579356963866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579354873627" />
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579356963866" />
     <state x="294" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1579344063727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="294" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579344063727" />
+    <state x="439" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579356971698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579356971698" />
     <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1579344274575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
