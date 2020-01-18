@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2615b2e-d447-4c20-882f-263a2ba79d46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\usr\" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WZ1O3M8cmwi4dFDD91gU48vnU1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sanja\djangogirls\mysite" />
+      <recent name="C:\Python\Lib\site-packages\django\db\models" />
+      <recent name="C:\Users\Sanja\djangogirls\blog" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2615b2e-d447-4c20-882f-263a2ba79d46" name="Default Changelist" comment="" />
+      <created>1579342267387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579342267387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579346166110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579346166110" />
+    <state x="412" y="61" key="FileChooserDialogImpl" timestamp="1579349207334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579349207334" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1579349225966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579349225966" />
+    <state x="294" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1579344063727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="294" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579344063727" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1579344274575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579344274575" />
+  </component>
+</project>
